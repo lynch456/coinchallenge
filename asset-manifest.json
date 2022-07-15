@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coinchallenge/static/js/main.241d2a09.js",
+    "index.html": "/coinchallenge/index.html",
+    "main.241d2a09.js.map": "/coinchallenge/static/js/main.241d2a09.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.241d2a09.js"
+  ]
+}
